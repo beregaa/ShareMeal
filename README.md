@@ -8,11 +8,10 @@ ShareMeal allows users to explore meals shared by others and upload their own cu
 
 🔥 **Don't just read about it—SEE IT YOURSELF!** Click below to watch the demo:  
 
-<a href="https://www.youtube.com/watch?v=KkXGzTRwnLw" target="_blank">
-  <img src="https://img.youtube.com/vi/KkXGzTRwnLw/maxresdefault.jpg" alt="Watch ShareMeal Demo" width="560">
-</a>  
+[![Watch ShareMeal Demo](https://img.youtube.com/vi/KkXGzTRwnLw/maxresdefault.jpg)](https://www.youtube.com/watch?v=KkXGzTRwnLw)  
 
-🎥 *Trust me, you don’t want to miss this!*  
+🎥 *Right-click the image and select "Open link in new tab" for the best experience!*   
+
 
 ## ✨ Features  
 
