@@ -11,6 +11,12 @@ ShareMeal allows users to explore meals shared by others and upload their own cu
 - ⚡ **Modern Stack** – Built with Next.js for performance and LiteSQL for efficient data management.  
 - 📱 **Responsive Design** – Works seamlessly across all devices.  
 
+## 📺 Project Demo  
+
+[![Watch the video](https://img.youtube.com/vi/KkXGzTRwnLw/maxresdefault.jpg)](https://www.youtube.com/watch?v=KkXGzTRwnLw)  
+
+🎥 *Click the image above to watch the project demo on YouTube.*  
+
 ## 🛠️ Tech Stack
 
 - **Frontend:** Next.js  
